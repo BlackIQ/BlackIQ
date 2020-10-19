@@ -9,5 +9,11 @@
         <br>
         <p><b>Some important informations about me :</b></p>
         <p>How old I am ? <b>17</b></p>
+        <br>
+        <br>
+        <label>Test of progress bar</label>
+        <br>
+        <br>
+        <progress value="32" max="100"> 32% </progress> 
     </body>
 </html>
