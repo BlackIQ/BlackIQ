@@ -1,5 +1,3 @@
-<html>
-    <body>
         <h1>Hi there ! it's me , Amirhossein Mohammadi .</h1>
         <p><b>Who I am ?</b></p>
         <p>I'm a medium <b>Python</b> , <b>PHP</b> developer and semi medium <b>Front - end</b> developer .</p>
@@ -9,5 +7,4 @@
         <br>
         <p><b>Some important informations about me :</b></p>
         <p>How old I am ? <b>17</b></p>
-    </body>
-</html>
+        [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
