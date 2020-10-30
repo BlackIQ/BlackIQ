@@ -1,4 +1,5 @@
-<h3>Hi there 👋 !\nI’m Amir , Network lover !</h3>
+<h1>Hi there 👋 !</h1>
+<h3>I’m Amir , Network lover !</h3>
 
 <img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
 
