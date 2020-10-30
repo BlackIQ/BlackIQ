@@ -10,7 +10,6 @@ I’m Amir , Network lover .
 - :cyclone: Only fact : **Jadi is the Best !**
 - ✍🏻 I have a publication [@Simply Dev](https://medium.com/simply-dev)
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
-
 - 📫 How to reach me !?
 - Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
 
