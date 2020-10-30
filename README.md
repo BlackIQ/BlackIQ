@@ -4,8 +4,6 @@
 
 <img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
 
-<img align="right" src="https://github.com/BlackIQ/BlackIQ/blob/main/404.png" width="45%"/>
-
 <br>
 <br>
 <br>
