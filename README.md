@@ -7,7 +7,6 @@
 <br>
 <br>
 <br>
-<br>
 
 - 💻 Full Stack Developer .
 - :cyclone: Only fact : **Jadi is the Best !**
