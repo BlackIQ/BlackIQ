@@ -7,12 +7,9 @@
 <img align="right" src="https://github.com/BlackIQ/BlackIQ/blob/main/404.png" width="45%"/>
 
 
-- 💻 Full Stack Dev (in making).
+- 💻 Full Stack Developer .
 - :cyclone: Only fact : **Jadi is the Best !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
-<br>
-- 📫 How to reach me !?
-- Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
@@ -20,3 +17,8 @@
 
 ### Find me :
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
+
+<br>
+
+- 📫 How to reach me !?
+- Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
