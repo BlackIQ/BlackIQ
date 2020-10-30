@@ -21,13 +21,15 @@
 
 <hr>
 
-### My Stats :
+### My Stats ?
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
 <hr>
 
-### Find me :
+### Find me ?
+<p><b>Social medias :</b></p>
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
 
+<p><b>Email :</b></p>
 - 📫 How to reach me !?
 - Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
