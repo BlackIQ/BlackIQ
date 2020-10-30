@@ -11,8 +11,7 @@
 - :cyclone: Only fact : **Jadi is the Best !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
 
-<br>
-<br>
+<hr>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
@@ -21,8 +20,7 @@
 ### Find me :
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
 
-<br>
-<br>
+<hr>
 
 - 📫 How to reach me !?
 - Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
