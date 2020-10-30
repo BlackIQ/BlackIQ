@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="left" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/Dev.jpg" width="25%"/>
+<img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
 
-<img align="right" src="https://github.com/Ishaan28malik/Ishaan28malik/blob/master/404.png" width="45%"/>
+<img align="right" src="https://github.com/BlackIQ/BlackIQ/blob/main/404.png" width="45%"/>
 
 I’m Amir , Network lover .
 
