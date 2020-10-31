@@ -41,7 +41,7 @@
 
 ### My Friends ?
 <ul>
-    <p><b>My Read and The best Friend : <a href="https://github.com/erfansaberi">Erfan Saberi</a> &hearts;</b></p>
-    <p><b>Python Programmer Friend : <a href="https://github.com/manijamali2003">Mani Jamali</a></b></p>
-    <p><b>Front End Developer Friend : <a href="https://github.com/Amirmahdi-Kaheh">Amirmahdi Kaheh</a></b></p>
+    <p>My Read and The best Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a> &hearts;</b></p>
+    <p>Python Programmer Friend : <b><a href="https://github.com/manijamali2003">Mani Jamali</a></b></p>
+    <p>Front End Developer Friend : <b><a href="https://github.com/Amirmahdi-Kaheh">Amirmahdi Kaheh</a></b></p>
 </ul>
