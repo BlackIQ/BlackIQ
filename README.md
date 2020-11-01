@@ -51,4 +51,4 @@
 
 ### Follow GifHub on Telegram !
 <p>Join to <b>GitHub</b> for having too many Gifs !</p>
-<p><b><a href="https://telegram.me/GifHub_com">GitHub</a> !</b></p>
+<p><b><a href="https://t.me/GifHub_com">GitHub</a> !</b></p>
