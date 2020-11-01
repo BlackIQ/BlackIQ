@@ -46,3 +46,9 @@
     <li>Front End Developer Friend : <b><a href="https://github.com/Amirmahdi-Kaheh">Amirmahdi Kaheh</a></b></li>
     <li>Classmate : <b><a href="https://github.com/Arashshiri82">Arash Shiri</a></b></li>
 </ul>
+
+<hr>
+
+### Follow GifHub on Telegram !
+<p>Join to <b>GitHub</b> for having too many Gifs !</p>
+<p><b><a href="https://telegram.me/GifHub_com">GitHub</a> !</b></p>
