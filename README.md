@@ -11,7 +11,8 @@
 - :cyclone: Only fact : **Jadi is the Best !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
 - My main project that I'm working on is <a href="https://github.com/BlackIQ/Rachel">Rachel</a> my Python assistant .
-- But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend Anna :)
+- But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend <b><a href="https://github.com/Annahita2004">Anna</a> 💖</b>
+
 <br>
 <br>
 
