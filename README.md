@@ -41,7 +41,7 @@
 
 ### My Friends ?
 <ul>
-    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b></li>
+    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b> &heartsuit;</li>
     <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita</a> &hearts;</b></li>
 </ul>
 
