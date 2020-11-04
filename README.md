@@ -10,8 +10,8 @@
 - 💻 Full Stack Developer .
 - :cyclone: Only fact : **Jadi is the Best !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
-- Working on <a href="https://github.com/BlackIQ/Rachel">Rachel</a> my Python assistant .
-
+- My main project that I'm working on is <a href="https://github.com/BlackIQ/Rachel">Rachel</a> my Python assistant .
+- But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend Anna :)
 <br>
 <br>
 
@@ -41,10 +41,8 @@
 
 ### My Friends ?
 <ul>
-    <li>My Real and The best Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a> &hearts;</b></li>
-    <li>Python Programmer Friend : <b><a href="https://github.com/manijamali2003">Mani Jamali</a></b></li>
-    <li>Front End Developer Friend : <b><a href="https://github.com/Amirmahdi-Kaheh">Amirmahdi Kaheh</a></b></li>
-    <li>Classmate : <b><a href="https://github.com/Arashshiri82">Arash Shiri</a></b></li>
+    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b></li>
+    <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita</a> &hearts;</b></li>
 </ul>
 
 <hr>
