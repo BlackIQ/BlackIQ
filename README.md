@@ -28,6 +28,14 @@
 
 <hr>
 
+### My Top Lang ?
+
+<p>Well , Here are top langs I used in my projects !</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact)](https://github.com/BlackIQ)
+
+<hr>
+
 ### Find me ?
 <p><b>Social medias :</b></p>
 
