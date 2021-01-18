@@ -51,15 +51,8 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="3.5%"/>](https://facebook.com/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="3.5%"/>](https://instagram.com/leorando_l_larson)
-
-<!--
-<a href="https://medium.com/@goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@goyalneehit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCdvnABJuAjetwZRYDKMBuSw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="neehit goyal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@goyalneehit" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@goyalneehit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/goyalneehit" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="goyalneehit" height="30" width="40" /></a>
--->
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="3.5%"/>](https://medium.com/@GNU_Amir)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" width="3.5%"/>](https://geeksforgeeks.org)
 
 <p><b>Email :</b></p>
 
