@@ -1,3 +1,9 @@
+[![Sponsor][SponsorBadge]][SponsorUrl]
+[![Patreon][PatreonBadge]][PatreonUrl]
+[![Discord][DiscordBadge]][DiscordUrl]
+[![Twitter][TwitterUrl]][TwitterBadge]
+
+
 <h1>Hi there 👋 !</h1>
 <h3>I’m Amir , Network lover !</h3>
 
