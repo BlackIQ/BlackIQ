@@ -1,8 +1,13 @@
+[vlang.io](https://vlang.io) |
+[Docs](https://github.com/vlang/v/blob/master/doc/docs.md) |
+[Changelog](https://github.com/vlang/v/blob/master/CHANGELOG.md) |
+[Speed](https://fast.vlang.io/) |
+[Contributing & compiler design](https://github.com/vlang/v/blob/master/CONTRIBUTING.md)
+
 [![Sponsor][SponsorBadge]][SponsorUrl]
 [![Patreon][PatreonBadge]][PatreonUrl]
 [![Discord][DiscordBadge]][DiscordUrl]
 [![Twitter][TwitterUrl]][TwitterBadge]
-
 
 <h1>Hi there 👋 !</h1>
 <h3>I’m Amir , Network lover !</h3>
