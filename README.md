@@ -48,10 +48,10 @@
 <p><b>Social medias :</b></p>
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="3.5%"/>](https://facebook.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="3.5%"/>](https://instagram.com/leorando_l_larson)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="3.5%"/>](https://medium.com/@GNU_Amir)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leorando_l_larson)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@GNU_Amir)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" width="3.5%"/>](https://geeksforgeeks.org)
 
 <p><b>Email :</b></p>
