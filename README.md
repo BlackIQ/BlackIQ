@@ -1,8 +1,6 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GNU_Amir?label=Twitter&style=flat-square">
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/BlackIQ?style=flat-square">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackIQ" alt="BlackIQ" /> </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/BlackIQ?style=flat-square&color=gray">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=gray">
 
 <h1>Hi there 👋 !</h1>
 <h3>I’m Amir , Network lover !</h3>
