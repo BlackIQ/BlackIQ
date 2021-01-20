@@ -2,8 +2,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/BlackIQ?style=flat-square&color=lightgrey">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
 
-[https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey](https://github.com/BlackIQ)
-
 <h1>Hi there 👋 !</h1>
 <h3>I’m Amir , Network lover !</h3>
 
