@@ -1,4 +1,5 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/BlackIQ.svg?style=social&label=Follow%20%40BlackIQ)](https://twitter.com/BlackIQ)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GNU_Amir?style=social">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehitgoyal" alt="neehitgoyal" /> </p>
 
 <h1>Hi there 👋 !</h1>
