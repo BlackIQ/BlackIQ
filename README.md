@@ -1,4 +1,6 @@
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GNU_Amir?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GNU_Amir?label=Twitter&style=flat-square">
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/BlackIQ?style=social">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehitgoyal" alt="neehitgoyal" /> </p>
 
