@@ -84,9 +84,9 @@
 ### Neotrinost !
 <p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
 <br>
-<p>You can folow Netrinost :)</p>
-<p><a href="https://linkedin.com/company/neotrinost">LinkedIn</a></p>
-<p><a href="https://neotrinost.ir">Web Page</a></p>
+<p>Neotrinost in Social Medias</p>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/company/neotrinost)
+[<img src="https://img.icons8.com/color/48/000000/web.png" width="3.5%"/>](https://neotrinost.ir)
 <br>
 <p>People in Neotrinost</p>
 <p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
