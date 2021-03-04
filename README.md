@@ -61,8 +61,8 @@
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/)
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leorando_l_larson)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/LeonardoLarson)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leonarndo_l_larson)
 [<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@GNU_Amir)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" width="3.5%"/>](https://geeksforgeeks.org)
 
@@ -75,12 +75,19 @@
 
 ### My Friends ?
 <ul>
-    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b> 🌟</li>
-    <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita</a> 💖</b></li>
+    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan</a></b> 🌟</li>
+    <li>My Real-Best Friend : <b><a href="https://github.com/Annahita2004">Annahita</a> 💖</b></li>
 </ul>
 
 <hr>
 
-### Follow GifHub on Telegram !
-<p>Join to <b>GitHub</b> for having too many Gifs !</p>
-<p><b><a href="https://t.me/GifHub_com">GitHub</a> !</b></p>
+### Neotrinost !
+<p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
+<br>
+<p>You can folow Netrinost :)</p>
+<p><a href="https://linkedin.com/company/neotrinost">LinkedIn</a></p>
+<p><a href="https://neotrinost.ir">Web Page</a></p>
+<br>
+<p>People in Neotrinost</p>
+<p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
+<p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
