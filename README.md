@@ -54,6 +54,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact)](https://github.com/BlackIQ)
 
+<hr>
+
 ### Amazing thing !
 <a href="https://github.com/BlackIQ">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ" />
