@@ -52,7 +52,7 @@
 
 <p>Well , Here are top langs I used in my projects !</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact)](https://github.com/BlackIQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=10)](https://github.com/BlackIQ)
 
 <hr>
 
