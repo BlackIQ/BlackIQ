@@ -4,8 +4,7 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
 </p>
 
-<h1>Hi there 👋 !</h1>
-<h3>I’m Amir , Network lover !</h3>
+### I **Amir** of the house **Mohammadi**
 
 <img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
 
@@ -23,7 +22,7 @@
 
 <hr>
 
-### What work with
+### Working with
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
@@ -36,14 +35,12 @@
 
 <hr>
 
-### Stats
+### Status
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
 <hr>
 
-### My Top Langs
-
-<p>Well , Here are top langs I used in my projects !</p>
+### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=10)](https://github.com/BlackIQ)
 
