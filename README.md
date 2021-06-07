@@ -4,13 +4,25 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
 </p>
 
-:octocat: I **Amir** of the house **Mohammadi**
+:lion: I **Amir** of the house **Mohammadi**
 
-<img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
+:moneybag: Lord of the **Neotrinost** and warden of the **Here**
 
-<br>
-<br>
-<br>
+#### I sweared an outh :
+
+```python
+Night gathers, and now my watch begins.
+It shall not end until my death. I shall take no wife, hold no lands, father no children.
+I shall wear no crowns and win no glory.
+I shall live and die at my post.
+I am the sword in the darkness.
+I am the watcher on the walls.
+I am the shield that guards the realms of men.
+I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
+```
+- **Remember :** a lannister always pays his debts.
+
+---
 
 - :cyclone: Only fact : **We are human !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
