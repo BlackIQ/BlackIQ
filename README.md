@@ -13,42 +13,35 @@
 <br>
 <br>
 
-- 💻 Full Stack Developer .
-- :cyclone: Only fact : **Jadi is the Best !**
+- :cyclone: Only fact : **We are human !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects**
-- My main project that I'm working on is <a href="https://github.com/BlackIQ/Rachel">Rachel</a> my Python assistant .
-- But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend <b><a href="https://github.com/Annahita2004">Anna</a> 💖</b>
+- My main project that I'm working on is <a href="https://github.com/BlackIQ/NarTik">NarTik</a> our main company project.
+- But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend <b><a href="https://github.com/Annahita2004">Anna</a> 💖</b> | <p><b>STOPED TIMES AGO</b></p>
 
 <br>
 <br>
 
 <hr>
 
-### What I know ?
+### What work with
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c.png" alt="c" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/cs.png" alt="csarp" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/css.png" alt="css" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/js.png" alt="js" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
 </p>
 
 <hr>
 
-### My Stats ?
+### Stats
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
 <hr>
 
-### My Top Lang ?
+### My Top Langs
 
 <p>Well , Here are top langs I used in my projects !</p>
 
@@ -56,13 +49,13 @@
 
 <hr>
 
-### Amazing thing !
+### Take a look
 <a href="https://github.com/BlackIQ">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ" />
 
 <hr>
 
-### Find me ?
+### Find me
 <p><b>Social medias :</b></p>
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
@@ -79,20 +72,11 @@
 
 <hr>
 
-### My Friends ?
+### Friends
 <ul>
-    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan</a></b> 🌟</li>
-    <li>My Real-Best Friend : <b><a href="https://github.com/Annahita2004">Annahita</a> 💖</b></li>
+    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b> 🌟</li>
+    <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita Mirhosseini</a> 💖</b></li>
 </ul>
-
-<hr>
-
-### Narbon
-<p>I am <b>Back-End Developer</b> in <b>Narbon</b></p>
-<br>
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/company/narbon)
-[<img src="https://img.icons8.com/color/48/000000/web.png" width="3.5%"/>](https://narbon.ir)
 
 <hr>
 
