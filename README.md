@@ -4,7 +4,7 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
 </p>
 
-### I **Amir** of the house **Mohammadi**
+:octocat: I **Amir** of the house **Mohammadi**
 
 <img align="left" src="https://github.com/BlackIQ/BlackIQ/blob/main/Dev.jpg" width="25%"/>
 
