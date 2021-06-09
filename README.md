@@ -86,6 +86,12 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
+### Doname
+    
+<a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
+    
+<hr>
+    
 ### Neotrinost !
 <p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
 <br>
