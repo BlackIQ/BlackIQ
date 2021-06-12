@@ -86,7 +86,7 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-### Doname
+### Donate
     
 <a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
     
