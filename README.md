@@ -24,14 +24,15 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 ---
 
-- :cyclone: Only fact : **We are human !**
-- :octocat: I’m open to Work/Collaborate on **Open Source Projects**
+- :cyclone: Only fact : **Be kink**.
+- :octocat: I’m open to Work/Collaborate on **Open Source Projects**.
 - My main project that I'm working on is <a href="https://github.com/BlackIQ/NarTik">NarTik</a> our main company project.
 - But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend <b><a href="https://github.com/Annahita2004">Anna</a> 💖</b> | <b>STOPED TIMES AGO</p>
 
 <hr>
 
-### Working with
+**Working with**
+
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
@@ -44,24 +45,28 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-### Status
+**Status**
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
 <hr>
 
-### Top Langs
+**Top Langs**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=10)](https://github.com/BlackIQ)
 
 <hr>
 
-### Take a look
+**Take a look**
+
 <a href="https://github.com/BlackIQ">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ" />
+</a>
 
 <hr>
 
-### Find me
+**Find me**
+
 <p><b>Social medias :</b></p>
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
@@ -78,7 +83,8 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-### Friends
+**Friends**
+
 <ul>
     <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b> 🌟</li>
     <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita Mirhosseini</a> 💖</b></li>
@@ -86,13 +92,14 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-### Donate
-    
+**Donate**
+
 <a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
     
 <hr>
     
 ### Neotrinost !
+
 <p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
 <br>
 <p>Neotrinost in Social Medias</p>
