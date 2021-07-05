@@ -108,6 +108,5 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 [<img src="https://img.icons8.com/color/48/000000/web.png" width="3.5%"/>](https://neotrinost.ir)
 
 <br>
-<p>People in Neotrinost</p>
 <p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
 <p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
