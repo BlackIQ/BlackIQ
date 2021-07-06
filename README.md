@@ -29,7 +29,7 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 - My main project that I'm working on is <a href="https://github.com/BlackIQ/NarTik">NarTik</a> our main company project.
 - But from Nov 3<sup>rd</sup> Started a Project named <a href="https://github.com/BlackIQ/Ashley">Ashley</a> by my Best friend <b><a href="https://github.com/Annahita2004">Anna</a> 💖</b> | <b>STOPED TIMES AGO</p>
 
-<hr>
+---
 
 **Working with**
 
