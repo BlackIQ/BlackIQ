@@ -46,7 +46,7 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 **Top Langs**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=10)](https://github.com/BlackIQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=5)](https://github.com/BlackIQ)
 
 <hr>
 
@@ -76,12 +76,10 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-**Friends**
+**Best Friends**
 
-<ul>
-    <li>My Real Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a></b> 🌟</li>
-    <li>My Best Friend : <b><a href="https://github.com/Annahita2004">Annahita Mirhosseini</a> 💖</b></li>
-</ul>
+- <a href="https://github.com/erfansaberi">Erfan Saberi</a> 🌟
+- <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a> 💖
 
 <hr>
 
