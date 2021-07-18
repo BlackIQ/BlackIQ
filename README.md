@@ -44,12 +44,9 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=5)](https://github.com/BlackIQ)
 
-
 **Take a look**
 
-<a href="https://github.com/BlackIQ">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ" />
-</a>
+[![Account Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ)](https://github.com/BlackIQ)
 
 **Times working**
 
