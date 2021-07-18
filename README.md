@@ -36,19 +36,14 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
 </p>
 
-<hr>
-
 **Status**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](https://github.com/BlackIQ)
-
-<hr>
 
 **Top Langs**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=5)](https://github.com/BlackIQ)
 
-<hr>
 
 **Take a look**
 
@@ -56,7 +51,9 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ" />
 </a>
 
-<hr>
+**Times working**
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackIQ)](https://github.com/anuraghazra/github-readme-stats)
 
 **Find me**
 
