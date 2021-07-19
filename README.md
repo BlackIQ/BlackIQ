@@ -48,10 +48,6 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 [![Account Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ)](https://github.com/BlackIQ)
 
-**Times working**
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlackIQ)](https://github.com/anuraghazra/github-readme-stats)
-
 **Find me**
 
 <p><b>Social medias :</b></p>
