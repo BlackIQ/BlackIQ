@@ -38,7 +38,7 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 **Status**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](https://github.com/BlackIQ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
 
 **Top Langs**
 
