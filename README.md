@@ -4,26 +4,28 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
 </p>
 
-:lion: I **Amir** of the house **Mohammadi**
+I **Amir** of the house **Mohammadi**.
+Lord of the **Neotrinost** and warden of the **Here**.
 
-:moneybag: Lord of the **Neotrinost** and warden of the **Here**
+Simple Python and Php developer.
 
-- **Remember :** a lannister always pays his debts.
+For more information, check [this out](https://blackiq.ir).
 
 ---
 
 <details>
     <summary>Status</summary>
+    <br>
 
-**Status**
+**Github Status**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/BlackIQ)
 
-**Top Langs**
+**Most language that I use**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=5)](https://github.com/BlackIQ)
 
-**Take a look**
+**Streak in using git**
 
 [![Account Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ)](https://github.com/BlackIQ)
 
@@ -31,6 +33,7 @@
 
 <details>
     <summary>Contact with me</summary>
+    <br>
 
 **Find me**
 
@@ -84,5 +87,7 @@ I am the watcher on the walls.
 I am the shield that guards the realms of men.
 I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
 ```
+
+**Remember : a lannister always pays his debts.****Remember : a lannister always pays his debts.**
 
 </details>
