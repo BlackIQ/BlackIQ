@@ -76,6 +76,6 @@ I am the shield that guards the realms of men.
 I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
 ```
 
-**Remember : a lannister always pays his debts.****Remember : a lannister always pays his debts.**
+**Remember : a lannister always pays his debts.**
 
 </details>
