@@ -64,11 +64,6 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <hr>
 
-**Best Friends**
-
-- <a href="https://github.com/erfansaberi">Erfan Saberi</a> 🌟
-- <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a> 💖
-
 <hr>
 
 **Donate**
