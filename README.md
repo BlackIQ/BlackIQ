@@ -62,16 +62,9 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 </details>
 
-<hr>
+<details>
+    <summary>Neotrinost</summary>
 
-<hr>
-
-**Donate**
-
-<a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
-    
-<hr>
-    
 ### Neotrinost !
 
 <p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
@@ -84,6 +77,16 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 <br>
 <p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
 <p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
+
+</details>
+
+<hr>
+
+**Donate**
+
+<a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
+    
+<hr>
 
 **I am tierd**
 
