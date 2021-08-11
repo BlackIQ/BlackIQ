@@ -19,11 +19,7 @@ For more information, check [blackiq.ir](https://blackiq.ir).
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/BlackIQ)
 
-**Most language that I use**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackIQ&layout=compact&langs_count=5)](https://github.com/BlackIQ)
-
-**Streak in using git**
+**Streak in commiting**
 
 [![Account Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ)](https://github.com/BlackIQ)
 
