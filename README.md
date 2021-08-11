@@ -79,15 +79,3 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 <p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
 
 </details>
-
-<hr>
-
-**Donate**
-
-<a href="https://nextpay.org/nx/page/BlackIQ">Donate via this link</a>
-    
-<hr>
-
-**I am tierd**
-
-*Help me*
