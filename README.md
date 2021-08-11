@@ -9,7 +9,7 @@ Lord of the **Neotrinost** and warden of the **Here**.
 
 Simple Python and Php developer.
 
-For more information, check [this out](https://blackiq.ir).
+For more information, check [blackiq.ir](https://blackiq.ir).
 
 ---
 
@@ -35,40 +35,28 @@ For more information, check [this out](https://blackiq.ir).
     <summary>Contact with me</summary>
     <br>
 
-**Find me**
+**Email or Telegram**
 
-<p><b>Social medias :</b></p>
-
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/LeonardoLarson)
-[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leonarndo_l_larson)
-[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@GNU_Amir)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" width="3.5%"/>](https://geeksforgeeks.org)
-
-<p><b>Email :</b></p>
-
-- 📫 You can send me email too !?
-- [<img src="https://img.icons8.com/color/48/000000/yahoo.png" width="3.5%"/>](amirhosseinmohammadi1380@yahoo.com) Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
-- Or send them to [This email](me@blackiq.ir). me@blackiq.ir
+- amirhosseinmohammadi1380@yahoo.com
+- Or send them to me@blackiq.ir
+- Or use [Telegram](https://t.me/BlackIQ)
 
 </details>
 
 <details>
-    <summary>Neotrinost</summary>
+    <summary>Carrier</summary>
 
-### Neotrinost !
+### Neotrinost
 
-<p>I am <b>CEO and Founder</b> of <b><a href="https://github.com/Neotrinost">Neotrinost</a></b></p>
-<br>
-<p>Neotrinost in Social Medias</p>
+I am **CEO and Founder** of **[Neotrinost](https://github.com/Neotrinost)**.
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/company/neotrinost)
-[<img src="https://img.icons8.com/color/48/000000/web.png" width="3.5%"/>](https://neotrinost.ir)
+[Official site](https://neotrinost.ir)
 
-<br>
-<p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
-<p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
+[LinkedIn](https://linkedin.com/company/neotrinost)
+
+[Github](https://github.com/Neotrinost)
+
+CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
 
 </details>
 
