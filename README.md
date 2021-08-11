@@ -1,8 +1,6 @@
-<p>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/GNU_Amir?label=Twitter&style=flat-square">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/BlackIQ?style=flat-square&color=lightgrey">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey">
-</p>
+[![Twitter Followers](https://img.shields.io/twitter/follow/GNU_Amir?label=Twitter&style=flat-square)](https://twitter.com/GNU_Amir)
+[![Github Followers](https://img.shields.io/github/followers/BlackIQ?style=flat-square&color=lightgrey)](https://github.com/BlackIQ?tab=followers)
+[![Github Profile Views](https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey)](.)
 
 I **Amir** of the house **Mohammadi**.
 Lord of the **Neotrinost** and warden of the **Here**.
