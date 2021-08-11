@@ -41,18 +41,26 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 </details>
 
-**Working with**
+<details>
+    <summary>Contact with me</summary>
 
-<img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/c.png" alt="c" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql" width="40" height="40"/>
+**Find me**
 
+<p><b>Social medias :</b></p>
 
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/amirhosseinmohammadi)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/LeonardoLarson)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leonarndo_l_larson)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@GNU_Amir)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" width="3.5%"/>](https://geeksforgeeks.org)
 
+<p><b>Email :</b></p>
+
+- 📫 How to reach me !?
+- [<img src="https://img.icons8.com/color/48/000000/yahoo.png" width="3.5%"/>](amirhosseinmohammadi1380@yahoo.com) Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
+
+</details>
 
 <hr>
 
