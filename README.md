@@ -7,7 +7,9 @@ Lord of the **Neotrinost** and warden of the **Here**.
 
 Simple Python and Php developer.
 
-For more information, check [blackiq.ir](https://blackiq.ir).
+For more information, check [BlackIQ.ir](https://blackiq.ir).
+
+Also there is [fa.BlackIQ.ir](https://fa.blackkiq.ir) for persion language.
 
 ---
 
