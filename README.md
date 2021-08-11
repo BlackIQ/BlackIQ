@@ -8,18 +8,6 @@
 
 :moneybag: Lord of the **Neotrinost** and warden of the **Here**
 
-#### I sweared an outh :
-
-```python
-Night gathers, and now my watch begins.
-It shall not end until my death. I shall take no wife, hold no lands, father no children.
-I shall wear no crowns and win no glory.
-I shall live and die at my post.
-I am the sword in the darkness.
-I am the watcher on the walls.
-I am the shield that guards the realms of men.
-I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
-```
 - **Remember :** a lannister always pays his debts.
 
 ---
@@ -57,8 +45,9 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 
 <p><b>Email :</b></p>
 
-- 📫 How to reach me !?
+- 📫 You can send me email too !?
 - [<img src="https://img.icons8.com/color/48/000000/yahoo.png" width="3.5%"/>](amirhosseinmohammadi1380@yahoo.com) Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
+- Or send them to [This email](me@blackiq.ir). me@blackiq.ir
 
 </details>
 
@@ -77,5 +66,23 @@ I pledge my life and honor to the Night's Watch, for this night and all the nigh
 <br>
 <p>CEO | Founder : <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a></p>
 <p>CTO | Co-Founder : <a href="https://github.com/Annahita2004">Annahita Mirhosseini</a></p>
+
+</details>
+
+<details>
+    <summary>Other things</summary>
+
+#### I sweared an outh :
+
+```python
+Night gathers, and now my watch begins.
+It shall not end until my death. I shall take no wife, hold no lands, father no children.
+I shall wear no crowns and win no glory.
+I shall live and die at my post.
+I am the sword in the darkness.
+I am the watcher on the walls.
+I am the shield that guards the realms of men.
+I pledge my life and honor to the Night's Watch, for this night and all the nights to come.
+```
 
 </details>
