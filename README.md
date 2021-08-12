@@ -53,6 +53,16 @@ I am **CEO and Founder** of **[Neotrinost](https://github.com/Neotrinost)**.
 [Github](https://github.com/Neotrinost)
 
 CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
+    
+### Novelvo
+
+I am **CEO and Founder** of **[Novelvo](https://github.com/Novelvo)**.
+
+[Official site](https://novelvo.ir)
+
+[Github](https://github.com/Neotrinost)
+
+CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
 
 </details>
 
