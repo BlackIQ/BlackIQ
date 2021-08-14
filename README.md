@@ -59,7 +59,7 @@ CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
 <details>
     <summary>Other things</summary>
 
-#### I sweared an outh :
+#### I sweared an outh
 
 ```python
 Night gathers, and now my watch begins.
