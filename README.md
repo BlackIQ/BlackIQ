@@ -75,6 +75,7 @@ CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
 
 <details>
     <summary>Other things</summary>
+    <br>
 
 #### I sweared an outh
 
