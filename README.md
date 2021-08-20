@@ -68,6 +68,7 @@ CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
 
 <details>
     <summary>Trophies</summary>
+    <br>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=BlackIQ)](https://github.com/BlackIQ)
 
