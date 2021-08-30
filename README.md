@@ -24,53 +24,35 @@ Also there is [fa.BlackIQ.ir](https://fa.blackiq.ir) for persion language.
 **Streak in commiting**
 
 [![Account Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackIQ)](https://github.com/BlackIQ)
-
-</details>
-
-<details>
-    <summary>Contact with me</summary>
-    <br>
-
-**Email or Telegram**
-
-- amirhosseinmohammadi1380@yahoo.com
-- Or send them to me@blackiq.ir
-- Or use [Telegram](https://t.me/BlackIQ)
+    
+**Trophies**
+    
+[![Trophies](https://github-profile-trophy.vercel.app/?username=BlackIQ)](https://github.com/BlackIQ)
 
 </details>
 
 <details>
     <summary>Carrier</summary>
+    <br>
 
-### Neotrinost
-
-I am **CEO and Founder** of **[Neotrinost](https://github.com/Neotrinost)**.
-
-[Official site](https://neotrinost.ir)
-
-[LinkedIn](https://linkedin.com/company/neotrinost)
-
-[Github](https://github.com/Neotrinost)
-
-CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
-    
-### Novelvo
-
-I am **CEO and Founder** of **[Novelvo](https://github.com/Novelvo)**.
-
-[Official site](https://novelvo.ir)
-
-[Github](https://github.com/Neotrinost)
-
-CTO | Co-Founder : [Annahita Mirhosseini](https://github.com/Annahita2004).
+|Company|Position|Period of time|Official Site|Github|More details|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|**PyAbr**|CTO & CCO|Jun 2019 - Present|[Site](https://pyabr.ir)|[Github](https://github.com/pyabr)|*Cloud manager and Software developer*|
+|**Neotrinost LLC**|CEO & Founder|Oct 2020 - Present|[Site](https://neotrinost.ir)|[Github](https://github.com/Neotrinost)|*We are a software development company*|
+|**Jobnic**|CEO & Founder|May 2021 - Present|[Site](https://jobnic.net)|-|*Jobnic is a place to find projects. Working under Neotrinost LLC*|
+|**Novelvo**|CEO & Founder|Aug 2021 - Present|[Site](https://novelvo.ir)|[Github](https://github.com/novelvo)|*A new wiki working under Neotrinost LLC*|
 
 </details>
 
 <details>
-    <summary>Trophies</summary>
+    <summary>Contact</summary>
     <br>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BlackIQ)](https://github.com/BlackIQ)
+**Email or Telegram**
+
+- [amirhosseinmohammadi1380@yahoo.com](mailto:amirhosseinmohammadi1380@yahoo.com)
+- Or [me@blackiq.ir](mailto:me@blackiq.ir)
+- Or use [Telegram](https://t.me/BlackIQ)
 
 </details>
 
