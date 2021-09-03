@@ -1,5 +1,4 @@
 I **Amir** of the house **Mohammadi**.
-Lord of the **Neotrinost** and warden of the **Here**.
 
 Python and Php developer.
 
