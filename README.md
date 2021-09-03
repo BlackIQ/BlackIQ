@@ -1,5 +1,3 @@
-[![Github Profile Views](https://komarev.com/ghpvc/?username=BlackIQ&style=flat-square&color=lightgrey)](.)
-
 I **Amir** of the house **Mohammadi**.
 Lord of the **Neotrinost** and warden of the **Here**.
 
