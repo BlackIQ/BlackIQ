@@ -13,5 +13,5 @@
 <br>
 <br>
 <small>
-  Email <a href="mailto:me@blackiq.ir">me@blackiq.ir</a>
+  Contact via Email <a href="mailto:me@blackiq.ir">me@blackiq.ir</a>
 </small>
