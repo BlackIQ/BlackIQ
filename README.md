@@ -1,7 +1,7 @@
 <small>
   I <b>Amir</b> of the house <b>Mohammadi</b>.
   <br>
-  <b>Python</b> and <b>Full stack Php web developer</b>.
+  <b>Python developer</b> and <b>Full stack Php web developer</b>.
 </small>
 <br>
 <br>
