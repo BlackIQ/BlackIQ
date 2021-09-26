@@ -1,2 +1,2 @@
-tests
-*.md
+tests linguist-detectable=true
+*.md linguist-detectable=true
