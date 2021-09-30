@@ -18,6 +18,6 @@
 <br>
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true&include_all_commits=true)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true&include_all_commits=true)](#)
 
 <small>Includes all private commits. In this account and other organizations.</small>
