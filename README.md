@@ -2,7 +2,7 @@ I **Amir** of the house **Mohammadi**.
 
 Full stack developer.
 
-[Download CV](amirhosseinmohammadi.pdf).
+[Download CV](https://github.com/BlackIQ/BlackIQ/raw/main/amirhosseinmohammadi.pdf).
 
 ---
 
