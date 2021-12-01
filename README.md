@@ -2,6 +2,8 @@ I **Amir** of the house **Mohammadi**.
 
 Full stack developer.
 
+[Download CV](amirhosseinmohammadi.pdf).
+
 ---
 
 Contact me via Email: [me@blackiq.ir](mailto:me@blackiq.ir).
