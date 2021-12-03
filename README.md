@@ -1,14 +1,12 @@
-I **Amir** of the house **Mohammadi**.
+Name: Amirhossein
 
-Full stack developer.
+Last name: Mohammadi.
 
 [Download CV](https://github.com/BlackIQ/BlackIQ/raw/main/amirhosseinmohammadi.pdf).
 
 ---
 
-Contact me via Email: [me@blackiq.ir](mailto:me@blackiq.ir).
-
-More information at [BlackIQ.ir](https://blackiq.ir).
+More information at [amirhossein.info](https://amirhossein.info).
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](#)&include_all_commits=true
 
