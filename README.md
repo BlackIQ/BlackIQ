@@ -2,7 +2,7 @@ Name: Amirhossein
 
 Last name: Mohammadi.
 
-[Download CV - Fa](https://github.com/BlackIQ/BlackIQ/raw/main/amirhossein-mohamamdi-fa.pdf) | [Download CV - En](https://github.com/BlackIQ/BlackIQ/raw/main/amirhossein-mohamamdi-en.pdf).
+[Download CV - Fa](https://github.com/BlackIQ/BlackIQ/raw/main/amirhossein-mohammadi-fa.pdf) | [Download CV - En](https://github.com/BlackIQ/BlackIQ/raw/main/amirhossein-mohammadi-en.pdf).
 
 ---
 
