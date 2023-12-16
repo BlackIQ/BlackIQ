@@ -14,4 +14,4 @@
 
 More information at [amirhossein.info](https://amirhossein.info).
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](#) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](#)
