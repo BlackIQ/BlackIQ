@@ -4,7 +4,6 @@
 
 - [Banks Pension Fund](https://sbbiran.ir): Software Engineer, DevOps
 - [Sortino](https://sortinio.ir): Co-Founder and Shareholder, Network Counselor
-- [Extudent](https://extudent.ir): Senior Software Engineer, Network Counselor
  
 ## Provided services
 
