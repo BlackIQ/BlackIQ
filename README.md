@@ -32,4 +32,4 @@ I have built many platforms, some of them are publicly offered and some privatel
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true&count_private=true)](#)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BlackIQ&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=BlackIQ&show_icons=true&include_all_commits=true)
